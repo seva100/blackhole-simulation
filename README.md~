@@ -1,0 +1,15 @@
+# blackhole-simulation
+
+This project is a realistic simulation of fabric with texture completed as a part of MSU Programming course. Language: C++, compiler: Microsoft Visual C++.
+
+On the final image you can see the black hole, the disk of gas, at most two planets and stars. The options can be turned on and off by tweaking configuration file. The simulation is not fully realistic and does not take into account some physical properties, but it is similar to a true black hole image. 
+
+<img src="img/Result 1.png"/>
+<img src="img/Result 2.png"/>
+<img src="img/Result 3.png"/>
+
+## How to compile and execute
+
+To compile the program, open it from Microsoft Visual Studio. (code makes use of OpenGL and can be rewritten to work in Linux environment). **src/** folder contains Microsoft Visual Studio 2015 project file. Program makes use of Windows-specific CImage library, but it's possible to rewrite it using any other image I/O library so it will work on *nix systems.
+
+To execute the program, you can either execute it from Microsoft Visual Studio, or 
