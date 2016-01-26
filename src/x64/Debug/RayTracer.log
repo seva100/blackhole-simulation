@@ -1,0 +1,12 @@
+﻿Сборка начата 23.11.2015 14:57:44.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\RayTracer.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.lib" /MACHINE:X64 x64\Debug\Main.obj
+         x64\Debug\Scene.obj
+         x64\Debug\Tracer.obj
+         RayTracer.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.exe
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\RayTracer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.06

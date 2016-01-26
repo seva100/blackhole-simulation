@@ -1,0 +1,25 @@
+﻿Сборка начата 18.11.2015 17:33:15.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\RayTracer.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\glm /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Scene.cpp Tracer.cpp
+         Tracer.cpp
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task3\raytracer\src\tracer.cpp(79): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task3\raytracer\src\tracer.cpp(80): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task3\raytracer\src\tracer.cpp(81): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+         Scene.cpp
+         Main.cpp
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task3\raytracer\src\main.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task3\raytracer\src\main.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\Scene.obj
+         Debug\Tracer.obj
+         RayTracer.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\..\bin\RayTracer.exe
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task3\RayTracer\src\RayTracer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:32.94
