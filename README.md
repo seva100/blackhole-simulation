@@ -10,7 +10,7 @@ On the final image you can see the black hole, the disk of gas, at most two plan
 
 ## How to compile and execute
 
-To compile the program, open it from Microsoft Visual Studio. (code makes use of OpenGL and can be rewritten to work in Linux environment). **src/** folder contains Microsoft Visual Studio 2015 project file. Program makes use of Windows-specific CImage library, but it's possible to rewrite it using any other image I/O library so it will work on *nix systems.
+To compile the program, open it from Microsoft Visual Studio. **src/** folder contains Microsoft Visual Studio 2015 project file. Program makes use of Windows-specific CImage library, but it's possible to rewrite it using any other image I/O library so it will work on *nix systems.
 
 To execute the program, you can either execute it from Microsoft Visual Studio, or run from the command line
 
