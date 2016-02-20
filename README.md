@@ -1,6 +1,6 @@
 # blackhole-simulation
 
-This project is a realistic simulation of fabric with texture completed as a part of MSU Computer Graphics course. Language: C++, compiler: Microsoft Visual C++.
+This project is a realistic simulation of a black hole completed as a part of MSU Computer Graphics course. Language: C++, compiler: Microsoft Visual C++.
 
 On the final image you can see the black hole, the disk of gas, at most two planets and stars. The options can be turned on and off by tweaking configuration file. The simulation is not fully realistic and does not take into account some physical properties, but it is similar to a true black hole image. 
 
